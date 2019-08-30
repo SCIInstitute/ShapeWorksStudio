@@ -1,3 +1,19 @@
+
+## Shapeworks Studio has been integrated into ShapeWorks main repo
+
+Thanks for your interest in ShapeWork tools. 
+
+Recently, we have been devoting more efforts towards ShapeWorks development with improved preprocessing tools and usability as our top priorities … ShapeWorksStudio has been integrated into the ShapeWorks repo to leverage the underlying computational tools and expose the recent prep/post tools within Studio.
+
+To get the latest ShapeWorks tools, go to the Github page and follow the instructions in the top-level README: https://github.com/SCIInstitute/ShapeWorks
+
+We plan to have downloadable builds for different platforms, and until then it should be easy to build your own version locally, see the [README](https://github.com/SCIInstitute/ShapeWorks/blob/master/README.md)
+
+We also have a standard shape analysis workflow scripted in python. Please see https://github.com/SCIInstitute/ShapeWorks/tree/master/UseCaseDocumentation/ellipsoidMain.py 
+
+If you have any questions, please email shapeworks-users@sci.utah.edu or for an even faster response, post your questions to our [Gitter forum](https://gitter.im/ShapeWorks/ShapeWorks). 
+
+
 <img src="http://www.sci.utah.edu/images/software/ShapeWorks/shapeworks.png">
 
 ## Shapeworks Studio
